@@ -22,6 +22,7 @@ The `vim statusline` has been configured to show the `mode`, `branch`, `filepath
 
 * [Solarized](https://github.com/altercation/vim-colors-solarized) - Color Scheme
 * [Neocomplete.vim](https://github.com/shougo/neocomplete.vim) - Auto Code Completion
+* [vim-go](https://github.com/fatih/vim-go) - Go Development for vim
 
 
 
