@@ -7,7 +7,21 @@ I like working on `vim` and over a period of time have added a lot of `vim exten
 
 The `vim statusline` has been configured to show the `mode`, `branch`, `filepath` on the left and `filetype`,`linecount` on the right.
 
-##List of extensions
+## Installation
+* Install Vundle
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+
+* Copy the contents of `vimrc` from this repo to your `~/.vimrc`
+
+* Install and activate
+```
+vim +PluginInstall +qall
+source ~/.vimrc
+```
+
+## List of extensions
 * [Syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
 
 ![alt text](https://github.com/zomansud/vim/blob/master/Screen%20Shot%202016-06-26%20at%2012.46.19%20AM.png "Syntastic")
